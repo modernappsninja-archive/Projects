@@ -11,8 +11,10 @@ Every Project and Project Task is captured by a Github Issue Ticket. The Issue t
 
 There are several types of issue tickets:
 
-- Feature Request
-  - Request for a new feature or capability desired for the ModernApps Ninja Program
+- Project
+  - Used to track end to end status for projects that consist of multiple project tasks
+- Project task
+  - Used to track individual tasks that are needed to complete a project
 - New Course Contributor Request
   - Individuals or Teams that want to create a new course can open a request for assistance on getting their initial course scaffolding created and get permissions needed to access the course creator studio to develop a course
 - New Lab Guide Contributor request
