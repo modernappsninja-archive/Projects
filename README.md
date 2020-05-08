@@ -34,4 +34,6 @@ The /WorkingGroups directory in this repository will contain a subdirectory and 
  
 To learn more about working groups, please see the working groups homepage at [/WorkingGroups/readme.md](./WorkingGroups/readme.md) to find a current listing of working groups. 
  
-The working groups homepage will provide links to the homepage for each current working group, which are located in this repository under the structure `/WorkingGroups/*Working_Group_Name*/readme.md`.
+The [working groups homepage](./WorkingGroups/readme.md) will provide links to the homepage for each current working group. 
+
+Most working group pages are located in this repository under the structure `/WorkingGroups/*Working_Group_Name*/readme.md`, however some working groups may have their own dedicated repository - in each case the link to the working group homepage will be provided on the [working groups homepage](./WorkingGroups/readme.md).
