@@ -1,21 +1,18 @@
 ---
-name: New Project
-about: Create a New Project Ticket
+name: Join Working Group
+about: Request to Join a Working Group
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-This ticket is used to create a new Project tracking ticket. Projects usually consist of multiple project tasks, and this Project Ticket is used to track and provide status for the entire end-to-end project. 
+Please review the [Working Groups](https://github.com/ModernAppsNinja/Projects/tree/master/WorkingGroups) homepage and confirm the name of the working group you would like to join, and enter the working group name below. 
 
-Please enter the name of your project in the title field, and replace the text in the body of this ticket with text that describes your project. 
+Please create seperate tickets for each group you would like to join. The Github ID used by the user submitting this request will be used for this join request.
 
-Project Title:
-Project Start Date:
-Projected End Date:
-Project Description:
+**Working Group Name:**
+**Your Preferred Email Address:**
 
-Please append this ticket with a link to the Project Task Tickets associated with this project. 
 
 Thank you!
