@@ -13,8 +13,6 @@ There are several types of issue tickets:
 
 - Feature Request
   - Request for a new feature or capability desired for the ModernApps Ninja Program
-- New Course or Lab Guide Suggestion
-  - Used to provide a suggestion for a new course or lab guide.
 - New Course Contributor Request
   - Individuals or Teams that want to create a new course can open a request for assistance on getting their initial course scaffolding created and get permissions needed to access the course creator studio to develop a course
 - New Lab Guide Contributor request
