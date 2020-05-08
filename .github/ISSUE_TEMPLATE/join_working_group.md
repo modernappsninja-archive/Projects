@@ -2,7 +2,7 @@
 name: Join Working Group
 about: Request to Join a Working Group
 title: ''
-labels: ''
+labels: 'JoinWorkingGroupRequest '
 assignees: ''
 
 ---
