@@ -1,19 +1,19 @@
 ---
-name: Join Working Group
-about: Request to Join a Working Group
+name: Request to join ModernApps Ninja Github Org
+about: Request to join ModernApps Ninja Github Org
 title: ''
-labels: 'JoinWorkingGroupRequest '
+labels: ''
 assignees: ''
 
 ---
 
-Please review the [Working Groups](https://github.com/ModernAppsNinja/Projects/tree/master/WorkingGroups) homepage and confirm the name of the working group you would like to join, and enter the working group name below. 
+This request can only be used for the github account the user making the request is logged into. 
 
-Please create seperate tickets for each group you would like to join. The Github ID used by the user submitting this request will be used for this join request.
+After submitting this request, the github user account that submitted this request will be reviewed for membership, please allow a few days for processing. 
 
-**Working Group Name:**
+The Secret Passphrase is "I am Not a Robot"
 
-**Your Preferred Email Address:**
+**You must enter the secret passphrase where indicated below for this request to be considered**
 
+Secret Passphrase: type_secret_passphrase_here
 
-Thank you!
