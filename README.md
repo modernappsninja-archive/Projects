@@ -19,8 +19,6 @@ There are several types of issue tickets:
   - Individuals or Teams that want to create a new course can open a request for assistance on getting their initial course scaffolding created and get permissions needed to access the course creator studio to develop a course
 - New Lab Guide Contributor request
   - Individuals or teams that want to create a new Lab Guide can open a request for assistance on getting their initial lab guide repository and scaffolding created and get permissions needed to manage their lab guide repository
-- Join a working group
-  - Request to join a working group. Before requesting to joing a working group, requestors should review the working group homepage to understand the expected participation and contribution from working group members
   
 ### Projects
  
